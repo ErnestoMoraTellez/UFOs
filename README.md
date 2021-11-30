@@ -122,7 +122,7 @@ As next function, when we have the filters, we use fiterTable function to filter
       // Build the table when the page loads
       buildTable(tableData);
 
-For the visualization, we crear a HTML file with 4 filters, by date, city, country and shape. We can find the script next. We give the page some stile and create the tables to show the data.
+For the visualization, we crear a HTML file with 4 filters, by date, city, country, state and shape. We can find the script next. We give the page some stile and create the tables to show the data.
 
     <!DOCTYPE html>
 
@@ -218,7 +218,7 @@ For the visualization, we crear a HTML file with 4 filters, by date, city, count
 
 ## Summary
 
-We used javascript to manipuleta UFO sightings information. Then with the help of HTML, we create a web page to interact with the user and filter the information by date, city, country and shape.
+We used javascript to manipuleta UFO sightings information. Then with the help of HTML, we create a web page to interact with the user and filter the information by date, city, state, country and shape.
 
 Here you can see the webpage desing.
 
