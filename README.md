@@ -216,10 +216,15 @@ For the visualization, we crear a HTML file with 4 filters, by date, city, count
     </body>
     </html>
 
+To perform a search we just need to input the information in the filters, the page will update the table of the left showing the result of our search.
+
+![image](https://user-images.githubusercontent.com/88845919/143971046-725ae531-cb34-46f1-9b3d-283db378917c.png)
+
+
 ## Summary
 
 We used javascript to manipuleta UFO sightings information. Then with the help of HTML, we create a web page to interact with the user and filter the information by date, city, state, country and shape.
 
-Here you can see the webpage desing.
+Here you can see the webpage desing. We include some description and image to give some design to the page. Probably for the future, the filters could be some drop down lists so the user can´t make a mistake. Or also show some message if the information doesn´t match with the user selection. We can link some articles to the page so the user can look for more information.
 
 ![image](https://user-images.githubusercontent.com/88845919/143970565-9c8d5c00-d4ea-440a-b87e-d9dfb9be0a24.png)
